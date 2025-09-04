@@ -1,4 +1,4 @@
-# Simple-Coffee-Shop-App
+# Simple-Drink-Shop-App
 
 ## Description
 
@@ -13,3 +13,14 @@ This Java application is intended to be a simple app that mainly functions to or
   - This allows the user to choose what drink they would like to order
 * An additional window showing the different customizations for every drink
   - This is to cater the drink to the users tastes
+
+### Requirements
+* Design an title screen that contains:
+  - the name of the shop
+  - a button that allows the user to enter the app
+* Design a menu screen that:
+  - displays the different drink options
+* Design a Customization screen that:
+  - allows the user to change certain orders from the 
+* Design a shopping cart screen that:
+  - allows the user to view their order and its total cost
